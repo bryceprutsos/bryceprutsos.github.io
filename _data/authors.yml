@@ -28,6 +28,9 @@ author1:
   social:
     twitter:         <username>
     github:          <https://bryceprutsos.github.io/>
+    twitch:          <username>
+    steam:           <number>
+    reddit:          <username>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -46,9 +49,6 @@ author1:
     # behance:         <username>
     # deviantart:      <username>
     # ello:            <username>
-     twitch:          <username>
-     steam:           <number>
-     reddit:          <username>
     # tumblr:          <username>
     # pinterest:       <username>
     # foursquare:      <number>
