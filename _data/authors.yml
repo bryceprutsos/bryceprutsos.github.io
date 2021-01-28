@@ -46,9 +46,9 @@ author1:
     # behance:         <username>
     # deviantart:      <username>
     # ello:            <username>
-    # twitch:          <username>
-    # steam:           <number>
-    # reddit:          <username>
+     twitch:          <username>
+     steam:           <number>
+     reddit:          <username>
     # tumblr:          <username>
     # pinterest:       <username>
     # foursquare:      <number>
