@@ -2,7 +2,7 @@
 layout: post
 title: Example Content
 description: >
-  HowdyThis is an update! This is an example blog post that shows several types of HTML content supported in this theme.
+  This is a updated thing that should change
 sitemap: false
 ---
 
